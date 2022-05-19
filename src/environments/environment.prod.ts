@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  baeUrl: 'https://api.deezer.com'
 };
